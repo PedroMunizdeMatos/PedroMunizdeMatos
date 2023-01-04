@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroMunizdeMatos
-- 👀 I’m interested in FrontEnd development, Python, ML
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning JS, TypeScript
 - 💞️ I’m looking to collaborate on websites 
 - 📫 How to reach me instagram: @phmuniz
 
