@@ -6,8 +6,6 @@
 
 - 💻 Ask me about **Typescript, JavaScript, Python, HTML, CSS, SQL, Node.JS**
 
-- ⚡ Fun fact **Oneye 😜**
-
 - 💬 Languages **Portuguese | English**
 
 <br><br>
