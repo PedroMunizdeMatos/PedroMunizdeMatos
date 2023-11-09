@@ -8,6 +8,9 @@
 
 - 💬 Languages **Portuguese | English**
 
+- 😜 Funfact **(Not) Often GitHub user**
+  
+
 <br><br>
 
 <div>
