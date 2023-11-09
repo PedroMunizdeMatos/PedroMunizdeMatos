@@ -2,7 +2,7 @@
 
 - 🔥 Sênior Web & Mobile Developer
 
-- 💼 I’m currently working at [Banco do Brasil] (https://www.linkedin.com/company/bancodobrasil)
+- 💼 I’m currently working at [Banco do Brasil](https://www.linkedin.com/company/bancodobrasil)
 
 - 💻 Ask me about **Typescript, JavaScript, Python, HTML, CSS, SQL, Node.JS**
 
