@@ -9,7 +9,6 @@
 - ⚡ Fun fact **Oneye 😜**
 
 - 💬 Languages **Portuguese | English**
-  
 
 <br><br>
 
@@ -21,7 +20,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react-native)&nbsp;
+![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -42,8 +41,6 @@
  <img align="center" src="https://img.shields.io/badge/-phmuniz-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-
 
 <!---
 I'm a Software Engineer passionate about technology and programming. To those who know me, I usually say that "those who do what they like, live on vacation". That's why I'm constantly looking to learn something new that will help me become an even better developer.
