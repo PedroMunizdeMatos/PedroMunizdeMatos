@@ -1,6 +1,6 @@
 <h1 align="left">Sup! I'm Pedro Matos 🙋‍♂️</h1>
 
-- 🔥 Sênior Web & Mobile Developer
+- 🔥 Web & Mobile Developer
 
 - 💼 I’m currently working at [Banco do Brasil](https://www.linkedin.com/company/bancodobrasil)
 
